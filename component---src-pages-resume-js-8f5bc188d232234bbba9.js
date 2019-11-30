@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{155:function(e,t,i){"use strict";i.r(t);var n=i(0),r=i.n(n);t.default=function(){return r.a.createElement("iframe",{src:"https://drive.google.com/drive/u/0/folders/1AL71bNvdzjyASFbiV9AyC-s7Yn8qkmxK",title:"resume",width:"100%",height:"1000px"})}}}]);
-//# sourceMappingURL=component---src-pages-resume-js-8f5bc188d232234bbba9.js.map
